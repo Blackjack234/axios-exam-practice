@@ -1,0 +1,25 @@
+{
+  "product": [
+    {
+      "pname": "Mobile",
+      "company": "samsung",
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "price": "24000",
+      "id": 1
+    },
+    {
+      "pname": "AC",
+      "company": "LG",
+      "desc": "Lorem ipsome",
+      "price": "44000",
+      "id": 2
+    },
+    {
+      "pname": "Speaker",
+      "company": "JBL",
+      "desc": "Lorem Ipsome",
+      "price": "12000",
+      "id": 4
+    }
+  ]
+}
